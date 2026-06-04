@@ -37,8 +37,6 @@ select distinct city from emp_details;
 select * from emp_details order by salary; -- by default ascending
 select * from emp_details order by salary desc;
 
-SET SQL_SAFE_UPDATES = 0;
-
 -- limit clause
 select * from emp_details limit 5;
 select * from emp_details limit 5,5;
@@ -94,5 +92,3 @@ select distinct rating from products;
 select * from products order by price;
 select * from products order by rating desc;
 select * from products order by category,price;
-
--- 603@thekiranacademy.com
