@@ -1,3 +1,5 @@
+# Practice on subquery
+
 use product_db;
 CREATE TABLE Products ( PID INT PRIMARY KEY, Product_Name VARCHAR(50) NOT NULL, Category
 VARCHAR(30) NOT NULL, Price DECIMAL(10,2) NOT NULL );

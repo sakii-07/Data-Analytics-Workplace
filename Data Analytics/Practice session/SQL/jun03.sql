@@ -1,3 +1,5 @@
+# Practice session on Functions
+
 create database fun_practice_db;
 use fun_practice_db;
 

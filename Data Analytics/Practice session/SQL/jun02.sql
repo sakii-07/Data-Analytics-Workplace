@@ -1,3 +1,4 @@
+# Practice session on Functions
 
 -- CREATE DEFINER=`root`@`localhost` FUNCTION `product_price`(price float) RETURNS varchar(32) CHARSET utf8mb4
 --     DETERMINISTIC
