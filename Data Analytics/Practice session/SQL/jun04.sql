@@ -44,7 +44,7 @@ call get_emp_by_id(110);
 -- Task 5: Employee Count by Department
 -- Create a procedure that accepts department name and returns total employees in that department. Use OUT parameter.
 
--- CREATE PROCEDURE `emp_count_by_department` (in dept varchar(32))
+-- CREATE PROCEDURE `emp_count_by_department` (in dept varchar(32), out count int)
 -- BEGIN
 -- 	select count(*) as "Total Employee" from employee group by department having department = dept;
 -- END

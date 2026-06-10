@@ -1,0 +1,51 @@
+Statistics : Statistics is the branch of mathematics used to collect, organize, analyze, interpret, and present data so that 
+             meaningful insights can be extracted and decisions can be made.
+
+
+1. Descriptive Statistics
+
+Descriptive statistics is used to summarize, organize, and describe data.
+
+        Measures of Central Tendency
+            Mean (Average) -- don't use where there is extreme value
+            Median (Middle value)
+            Mode (Most frequent value)
+
+    Mean → Average → Uses all values
+    Median → Middle → Resistant to outliers
+    Mode → Most common → Frequency-based
+
+        Measures of Dispersion (Spread)
+            Range
+            Variance
+            Standard Deviation
+
+Variance in Statistics :- Variance measures how far the data values are spread out from the mean (average).
+    Variance=n∑(xi​−xˉ)2​
+    Where:
+
+    xi = each data value
+    _
+    x = mean
+    n = number of observations
+
+------> mean +- sd
+
+.. Based on the number of most-frequent values, mode can be:
+
+    Unimodal – one mode
+    Bimodal – two modes
+    Multimodal – more than two modes
+    No Mode – no value repeats more frequently than the others
+
+2. Inferential Statistics
+
+Inferential statistics is used to make predictions or conclusions about a population using a sample.
+
+    Common Techniques
+        Hypothesis Testing
+        Confidence Intervals
+        Regression Analysis
+        ANOVA
+        Chi-Square Test
+
