@@ -1,0 +1,101 @@
+student_id,student_name,branch,course,final_test_marks,course_fee,paid_fee
+S001,Aarav Patil,Karve Nagar,Data Science,34,50000,25000
+S002,Vivaan Sharma,Nagpur,Data Analytics,23,40000,24000
+S003,Aditya Verma,Deccan,Web Development,55,30000,21000
+S004,Arjun Jadhav,Chinchwad,Testing,51,20000,16000
+S005,Sai Pawar,Karve Nagar,Data Science,48,50000,45000
+S006,Atharva Kulkarni,Nagpur,Data Analytics,37,40000,16000
+S007,Om Deshmukh,Deccan,Web Development,33,30000,15000
+S008,Rohan Shinde,Chinchwad,Testing,89,20000,12000
+S009,Rahul More,Karve Nagar,Data Science,31,50000,35000
+S010,Kunal Joshi,Nagpur,Data Analytics,95,40000,32000
+S011,Siddhesh Gupta,Deccan,Web Development,74,30000,27000
+S012,Pranav Yadav,Chinchwad,Testing,24,20000,8000
+S013,Saurabh Mane,Karve Nagar,Data Science,23,50000,25000
+S014,Akash Kadam,Nagpur,Data Analytics,31,40000,24000
+S015,Abhishek Chavan,Deccan,Web Development,47,30000,21000
+S016,Shubham Nair,Chinchwad,Testing,49,20000,16000
+S017,Yash Singh,Karve Nagar,Data Science,84,50000,45000
+S018,Aniket Mehta,Nagpur,Data Analytics,97,40000,16000
+S019,Nikhil Agrawal,Deccan,Web Development,23,30000,15000
+S020,Ruturaj Thakur,Chinchwad,Testing,91,20000,12000
+S021,Sneha Patil,Karve Nagar,Data Science,45,50000,35000
+S022,Pooja Sharma,Nagpur,Data Analytics,89,40000,32000
+S023,Priya Verma,Deccan,Web Development,73,30000,27000
+S024,Aditi Jadhav,Chinchwad,Testing,48,20000,8000
+S025,Neha Pawar,Karve Nagar,Data Science,77,50000,25000
+S026,Anushka Kulkarni,Nagpur,Data Analytics,95,40000,24000
+S027,Shruti Deshmukh,Deccan,Web Development,55,30000,21000
+S028,Kavya Shinde,Chinchwad,Testing,20,20000,16000
+S029,Riya More,Karve Nagar,Data Science,40,50000,45000
+S030,Sakshi Joshi,Nagpur,Data Analytics,74,40000,16000
+S031,Tanvi Gupta,Deccan,Web Development,63,30000,15000
+S032,Vaishnavi Yadav,Chinchwad,Testing,55,20000,12000
+S033,Isha Mane,Karve Nagar,Data Science,39,50000,35000
+S034,Komal Kadam,Nagpur,Data Analytics,47,40000,32000
+S035,Prachi Chavan,Deccan,Web Development,63,30000,27000
+S036,Mansi Nair,Chinchwad,Testing,33,20000,8000
+S037,Tejaswini Singh,Karve Nagar,Data Science,31,50000,25000
+S038,Swati Mehta,Nagpur,Data Analytics,68,40000,24000
+S039,Nikita Agrawal,Deccan,Web Development,32,30000,21000
+S040,Rashmi Thakur,Chinchwad,Testing,65,20000,16000
+S041,Aarav Patil,Karve Nagar,Data Science,64,50000,45000
+S042,Vivaan Sharma,Nagpur,Data Analytics,97,40000,16000
+S043,Aditya Verma,Deccan,Web Development,53,30000,15000
+S044,Arjun Jadhav,Chinchwad,Testing,25,20000,12000
+S045,Sai Pawar,Karve Nagar,Data Science,78,50000,35000
+S046,Atharva Kulkarni,Nagpur,Data Analytics,88,40000,32000
+S047,Om Deshmukh,Deccan,Web Development,35,30000,27000
+S048,Rohan Shinde,Chinchwad,Testing,68,20000,8000
+S049,Rahul More,Karve Nagar,Data Science,30,50000,25000
+S050,Kunal Joshi,Nagpur,Data Analytics,90,40000,24000
+S051,Siddhesh Gupta,Deccan,Web Development,57,30000,21000
+S052,Pranav Yadav,Chinchwad,Testing,99,20000,16000
+S053,Saurabh Mane,Karve Nagar,Data Science,66,50000,45000
+S054,Akash Kadam,Nagpur,Data Analytics,93,40000,16000
+S055,Abhishek Chavan,Deccan,Web Development,44,30000,15000
+S056,Shubham Nair,Chinchwad,Testing,28,20000,12000
+S057,Yash Singh,Karve Nagar,Data Science,25,50000,35000
+S058,Aniket Mehta,Nagpur,Data Analytics,49,40000,32000
+S059,Nikhil Agrawal,Deccan,Web Development,57,30000,27000
+S060,Ruturaj Thakur,Chinchwad,Testing,30,20000,8000
+S061,Sneha Patil,Karve Nagar,Data Science,49,50000,25000
+S062,Pooja Sharma,Nagpur,Data Analytics,32,40000,24000
+S063,Priya Verma,Deccan,Web Development,68,30000,21000
+S064,Aditi Jadhav,Chinchwad,Testing,55,20000,16000
+S065,Neha Pawar,Karve Nagar,Data Science,78,50000,45000
+S066,Anushka Kulkarni,Nagpur,Data Analytics,66,40000,16000
+S067,Shruti Deshmukh,Deccan,Web Development,40,30000,15000
+S068,Kavya Shinde,Chinchwad,Testing,67,20000,12000
+S069,Riya More,Karve Nagar,Data Science,65,50000,35000
+S070,Sakshi Joshi,Nagpur,Data Analytics,46,40000,32000
+S071,Tanvi Gupta,Deccan,Web Development,54,30000,27000
+S072,Vaishnavi Yadav,Chinchwad,Testing,29,20000,8000
+S073,Isha Mane,Karve Nagar,Data Science,97,50000,25000
+S074,Komal Kadam,Nagpur,Data Analytics,41,40000,24000
+S075,Prachi Chavan,Deccan,Web Development,88,30000,21000
+S076,Mansi Nair,Chinchwad,Testing,51,20000,16000
+S077,Tejaswini Singh,Karve Nagar,Data Science,40,50000,45000
+S078,Swati Mehta,Nagpur,Data Analytics,79,40000,16000
+S079,Nikita Agrawal,Deccan,Web Development,68,30000,15000
+S080,Rashmi Thakur,Chinchwad,Testing,54,20000,12000
+S081,Aarav Patil,Karve Nagar,Data Science,91,50000,35000
+S082,Vivaan Sharma,Nagpur,Data Analytics,48,40000,32000
+S083,Aditya Verma,Deccan,Web Development,61,30000,27000
+S084,Arjun Jadhav,Chinchwad,Testing,27,20000,8000
+S085,Sai Pawar,Karve Nagar,Data Science,49,50000,25000
+S086,Atharva Kulkarni,Nagpur,Data Analytics,24,40000,24000
+S087,Om Deshmukh,Deccan,Web Development,60,30000,21000
+S088,Rohan Shinde,Chinchwad,Testing,71,20000,16000
+S089,Rahul More,Karve Nagar,Data Science,54,50000,45000
+S090,Kunal Joshi,Nagpur,Data Analytics,28,40000,16000
+S091,Siddhesh Gupta,Deccan,Web Development,47,30000,15000
+S092,Pranav Yadav,Chinchwad,Testing,92,20000,12000
+S093,Saurabh Mane,Karve Nagar,Data Science,60,50000,35000
+S094,Akash Kadam,Nagpur,Data Analytics,47,40000,32000
+S095,Abhishek Chavan,Deccan,Web Development,83,30000,27000
+S096,Shubham Nair,Chinchwad,Testing,70,20000,8000
+S097,Yash Singh,Karve Nagar,Data Science,78,50000,25000
+S098,Aniket Mehta,Nagpur,Data Analytics,38,40000,24000
+S099,Nikhil Agrawal,Deccan,Web Development,53,30000,21000
+S100,Ruturaj Thakur,Chinchwad,Testing,37,20000,16000
