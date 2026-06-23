@@ -1,0 +1,101 @@
+student_id,name,branch,course_name,fees,paid_fees,remaining_fee,marks
+S001,Ritika Kulkarni,Pune,Java Full Stack,30000,27000,3000,73
+S002,Aarav Patil,Chinchwad,Java Full Stack,30000,22000,8000,59
+S003,Aarav Sharma,Chinchwad,Testing,25000,20500,4500,70
+S004,Ritika Sharma,Chinchwad,Testing,25000,24500,500,65
+S005,Ritika Verma,Mumbai,Python Full Stack,30000,18000,12000,90
+S006,Kavya Mehta,Pune,Python Full Stack,30000,19000,11000,73
+S007,Ritika Joshi,Pune,Data Analytics,40000,37000,3000,58
+S008,Ananya Singh,Mumbai,Testing,25000,13500,11500,75
+S009,Pooja Kulkarni,Chinchwad,Python Full Stack,30000,29000,1000,92
+S010,Kavya Singh,Pune,Python Full Stack,30000,22000,8000,84
+S011,Yash Verma,Nagpur,Data Science,50000,43000,7000,81
+S012,Kavya Patel,Nagpur,Data Science,50000,38000,12000,70
+S013,Sakshi Gupta,Nashik,Python Full Stack,30000,15000,15000,78
+S014,Ishaan Gupta,Mumbai,Java Full Stack,30000,30000,0,75
+S015,Ananya Patil,Chinchwad,Data Science,50000,48000,2000,65
+S016,Aditya Mehta,Pune,Testing,25000,20500,4500,57
+S017,Aarav Patel,Pune,Testing,25000,22500,2500,94
+S018,Karan Verma,Nagpur,Python Full Stack,30000,24000,6000,77
+S019,Karan Patel,Nagpur,Python Full Stack,30000,15000,15000,69
+S020,Tanvi Kulkarni,Nagpur,Data Science,50000,36000,14000,68
+S021,Arjun Verma,Nagpur,Data Analytics,40000,24000,16000,67
+S022,Priya Patel,Nagpur,Java Full Stack,30000,25000,5000,61
+S023,Ritika Gupta,Nashik,Data Analytics,40000,35000,5000,65
+S024,Sneha Gupta,Pune,Data Science,50000,26000,24000,69
+S025,Yash Sharma,Nashik,Python Full Stack,30000,21000,9000,60
+S026,Vihaan Deshmukh,Pune,Java Full Stack,30000,26000,4000,98
+S027,Ananya Mehta,Mumbai,Testing,25000,17500,7500,62
+S028,Sakshi Verma,Pune,Python Full Stack,30000,16000,14000,68
+S029,Ishaan Sharma,Nashik,Python Full Stack,30000,19000,11000,79
+S030,Tanvi Sharma,Nashik,Testing,25000,18500,6500,83
+S031,Sakshi Gupta,Mumbai,Data Analytics,40000,30000,10000,61
+S032,Om Gupta,Chinchwad,Java Full Stack,30000,20000,10000,58
+S033,Sakshi Mehta,Nashik,Data Analytics,40000,21000,19000,64
+S034,Ritika Singh,Mumbai,Testing,25000,21500,3500,91
+S035,Ananya Deshmukh,Nashik,Java Full Stack,30000,23000,7000,76
+S036,Rahul Joshi,Pune,Data Analytics,40000,23000,17000,61
+S037,Rahul Gupta,Pune,Data Science,50000,25000,25000,60
+S038,Tanvi Patel,Mumbai,Data Analytics,40000,29000,11000,74
+S039,Yash Gupta,Mumbai,Data Analytics,40000,37000,3000,75
+S040,Aarav Gupta,Nashik,Java Full Stack,30000,24000,6000,85
+S041,Sneha Kulkarni,Nagpur,Data Science,50000,35000,15000,86
+S042,Aarav Mehta,Nagpur,Data Analytics,40000,39000,1000,63
+S043,Ritika Patel,Nashik,Data Science,50000,27000,23000,75
+S044,Neha Gupta,Mumbai,Java Full Stack,30000,26000,4000,90
+S045,Amit Patel,Pune,Testing,25000,22500,2500,98
+S046,Aarav Kulkarni,Pune,Python Full Stack,30000,30000,0,83
+S047,Aarav Mehta,Pune,Java Full Stack,30000,28000,2000,73
+S048,Rahul Kulkarni,Chinchwad,Data Analytics,40000,30000,10000,94
+S049,Amit Singh,Mumbai,Data Analytics,40000,26000,14000,73
+S050,Aarav Verma,Pune,Python Full Stack,30000,16000,14000,72
+S051,Rohan Joshi,Nagpur,Data Science,50000,46000,4000,68
+S052,Yash Mehta,Nashik,Testing,25000,21500,3500,63
+S053,Sakshi Kulkarni,Mumbai,Java Full Stack,30000,28000,2000,72
+S054,Tanvi Sharma,Mumbai,Java Full Stack,30000,22000,8000,89
+S055,Sakshi Sharma,Pune,Data Science,50000,30000,20000,79
+S056,Priya Deshmukh,Mumbai,Data Analytics,40000,33000,7000,87
+S057,Aditya Kulkarni,Mumbai,Testing,25000,21500,3500,66
+S058,Rohan Joshi,Chinchwad,Data Science,50000,49000,1000,74
+S059,Om Kulkarni,Mumbai,Java Full Stack,30000,26000,4000,82
+S060,Om Mehta,Nagpur,Java Full Stack,30000,25000,5000,62
+S061,Ishaan Deshmukh,Pune,Data Analytics,40000,39000,1000,87
+S062,Om Singh,Chinchwad,Java Full Stack,30000,24000,6000,92
+S063,Karan Joshi,Nagpur,Data Analytics,40000,30000,10000,65
+S064,Sakshi Patel,Nashik,Testing,25000,15500,9500,86
+S065,Arjun Verma,Nashik,Java Full Stack,30000,24000,6000,89
+S066,Karan Patel,Pune,Data Analytics,40000,34000,6000,80
+S067,Tanvi Patil,Nashik,Data Science,50000,40000,10000,71
+S068,Vihaan Sharma,Chinchwad,Python Full Stack,30000,28000,2000,91
+S069,Ishaan Patel,Chinchwad,Testing,25000,14500,10500,84
+S070,Tanvi Patil,Mumbai,Data Analytics,40000,28000,12000,61
+S071,Tanvi Deshmukh,Mumbai,Python Full Stack,30000,17000,13000,87
+S072,Kavya Joshi,Pune,Java Full Stack,30000,17000,13000,61
+S073,Priya Sharma,Nashik,Java Full Stack,30000,25000,5000,93
+S074,Kavya Singh,Chinchwad,Data Science,50000,26000,24000,76
+S075,Rohan Sharma,Nagpur,Testing,25000,21500,3500,86
+S076,Sakshi Deshmukh,Mumbai,Data Science,50000,36000,14000,84
+S077,Sneha Verma,Pune,Python Full Stack,30000,28000,2000,69
+S078,Amit Mehta,Nashik,Data Science,50000,32000,18000,68
+S079,Vihaan Mehta,Nashik,Testing,25000,17500,7500,65
+S080,Om Sharma,Chinchwad,Testing,25000,24500,500,61
+S081,Ishaan Patil,Chinchwad,Data Science,50000,26000,24000,84
+S082,Yash Patel,Pune,Testing,25000,16500,8500,94
+S083,Om Patel,Nashik,Java Full Stack,30000,24000,6000,64
+S084,Ishaan Mehta,Mumbai,Testing,25000,16500,8500,73
+S085,Tanvi Kulkarni,Mumbai,Python Full Stack,30000,25000,5000,97
+S086,Ishaan Patil,Nashik,Java Full Stack,30000,17000,13000,79
+S087,Aarav Singh,Pune,Testing,25000,23500,1500,78
+S088,Karan Joshi,Mumbai,Testing,25000,19500,5500,84
+S089,Sakshi Joshi,Mumbai,Data Analytics,40000,32000,8000,94
+S090,Rahul Mehta,Chinchwad,Python Full Stack,30000,21000,9000,59
+S091,Kavya Kulkarni,Chinchwad,Python Full Stack,30000,18000,12000,84
+S092,Vihaan Joshi,Mumbai,Java Full Stack,30000,24000,6000,91
+S093,Om Mehta,Nashik,Data Analytics,40000,30000,10000,61
+S094,Rahul Deshmukh,Nashik,Java Full Stack,30000,30000,0,64
+S095,Rohan Joshi,Nashik,Testing,25000,21500,3500,87
+S096,Rahul Gupta,Chinchwad,Data Analytics,40000,31000,9000,77
+S097,Ishaan Mehta,Chinchwad,Data Science,50000,26000,24000,55
+S098,Karan Sharma,Pune,Data Science,50000,32000,18000,60
+S099,Ishaan Kulkarni,Nagpur,Testing,25000,22500,2500,73
+S100,Ritika Patel,Chinchwad,Python Full Stack,30000,30000,0,81

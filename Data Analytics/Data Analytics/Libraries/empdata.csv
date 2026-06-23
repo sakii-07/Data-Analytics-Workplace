@@ -1,0 +1,23 @@
+emp_id,emp_name,department,city,experience,salary,rating,gender
+101,Amit Sharma,IT,Pune,3,45000,4.5,Male
+102,Priya Patil,HR,Mumbai,5,55000,4.2,Female
+103,Rahul Verma,Sales,Nagpur,2,35000,3.8,Male
+104,Sneha Joshi,IT,Pune,4,50000,4.1,Female
+105,Vikas Kumar,Finance,Mumbai,6,65000,4.7,Male
+106,Anjali Singh,Sales,,3,40000,3.9,Female
+107,Rohan Deshmukh,IT,Pune,,48000,4.3,Male
+108,Neha Kulkarni,HR,Nashik,5,,4.0,Female
+109,Sachin Patil,Sales,Nagpur,2,36000,,Male
+110,Pooja Shah,Finance,Mumbai,7,70000,4.8,Female
+111,Amit Sharma,IT,Pune,3,45000,4.5,Male
+112,Karan Mehta,IT,Pune,4,52000,5,Male
+113,Meera Jain,HR,Nashik,5,56000,4.1,Female
+114,Akash Gupta,Sales,Nagpur,2,34000,3.5,Male
+115,Divya Patil,Finance,Pune,8,75000,4.9,Female
+116,Rajesh More,IT,Pune,1,30000,3.6,Male
+117,Kavita Singh,HR,Mumbai,4,50000,3,Female
+118,Manoj Kale,Sales,Nagpur,3,41000,4.0,Male
+119,Ritu Sharma,Finance,,6,68000,4.6,Female
+120,Sandeep Patil,IT,Pune,5,58000,4.4,Male
+120,Sandeep Patil,IT,Pune,5,58000,4.4,Male
+120,Sandeep Patil,IT,Pune,5,58000,4.4,Male

@@ -1,0 +1,101 @@
+loan_id,customer_name,age,education_level,employment_type,credit_score,loan_purpose,loan_amount,interest_rate,loan_term_year,loan_default
+L001,Aarav Sharma,25,Graduate,Salaried,720,Education,250000,10.5,5,No
+L002,Diya Patel,32,Post Graduate,Self Employed,680,Home,750000,11.2,10,No
+L003,Rohan Verma,28,Graduate,Salaried,610,Car,400000,13.5,7,Yes
+L004,Ananya Singh,35,Post Graduate,Business,780,Business,1200000,9.8,12,No
+L005,Vivaan Gupta,23,Graduate,Salaried,590,Education,200000,14.2,5,Yes
+L006,Ishita Joshi,30,Post Graduate,Salaried,710,Home,850000,10.8,15,No
+L007,Aditya Kulkarni,41,Graduate,Business,650,Business,950000,12.5,10,No
+L008,Meera Nair,27,Graduate,Salaried,560,Personal,300000,15.2,4,Yes
+L009,Karan Mehta,38,Post Graduate,Self Employed,730,Home,1100000,10.1,20,No
+L010,Sneha Deshmukh,29,Graduate,Salaried,640,Car,450000,12.8,6,No
+L011,Arjun Reddy,45,Post Graduate,Business,790,Business,1500000,9.2,15,No
+L012,Kavya Iyer,24,Graduate,Salaried,600,Education,180000,13.9,5,Yes
+L013,Rahul Chavan,31,Graduate,Self Employed,670,Personal,350000,12.3,5,No
+L014,Priya Yadav,36,Post Graduate,Salaried,740,Home,950000,10.0,15,No
+L015,Nikhil Patil,26,Graduate,Salaried,580,Car,420000,14.5,7,Yes
+L016,Aditi Mishra,34,Post Graduate,Business,760,Business,1300000,9.7,12,No
+L017,Omkar Jadhav,28,Graduate,Salaried,620,Personal,280000,13.1,4,No
+L018,Pooja Sharma,39,Post Graduate,Self Employed,700,Home,1050000,10.6,18,No
+L019,Siddharth Jain,42,Graduate,Business,810,Business,1700000,8.9,15,No
+L020,Neha Kapoor,25,Graduate,Salaried,570,Education,220000,14.8,5,Yes
+L021,Tanmay Shinde,33,Post Graduate,Salaried,690,Home,820000,11.1,12,No
+L022,Ritika Gupta,29,Graduate,Self Employed,650,Car,480000,12.9,6,No
+L023,Yash Thakur,37,Post Graduate,Business,770,Business,1250000,9.6,10,No
+L024,Shreya Pawar,24,Graduate,Salaried,610,Education,240000,13.7,5,Yes
+L025,Harsh Agrawal,40,Post Graduate,Self Employed,720,Home,980000,10.4,15,No
+L026,Vaishnavi More,27,Graduate,Salaried,590,Personal,260000,14.3,4,Yes
+L027,Manav Bansal,35,Post Graduate,Business,750,Business,1350000,9.5,12,No
+L028,Krishna Rao,30,Graduate,Salaried,640,Car,500000,12.7,7,No
+L029,Simran Kaur,26,Graduate,Salaried,560,Education,210000,15.0,5,Yes
+L030,Atharva Patil,44,Post Graduate,Business,800,Business,1600000,8.8,15,No
+L031,Raj Malhotra,31,Graduate,Salaried,705,Home,870000,10.9,15,No
+L032,Anjali Jain,29,Post Graduate,Self Employed,625,Personal,330000,13.0,5,No
+L033,Mohit Sharma,27,Graduate,Salaried,575,Education,230000,14.7,5,Yes
+L034,Sakshi Jagtap,22,Graduate,Salaried,650,Education,180000,12.5,4,No
+L035,Akash Desai,38,Post Graduate,Business,785,Business,1400000,9.3,12,No
+L036,Pallavi Nair,34,Graduate,Salaried,610,Car,450000,13.4,6,Yes
+L037,Rohan Patil,41,Post Graduate,Self Employed,730,Home,1150000,10.2,18,No
+L038,Neel Shah,25,Graduate,Salaried,590,Personal,270000,14.1,4,Yes
+L039,Ayesha Khan,32,Post Graduate,Salaried,700,Home,900000,10.7,15,No
+L040,Vedant Kulkarni,36,Graduate,Business,760,Business,1280000,9.8,10,No
+L041,Kriti Sharma,28,Graduate,Salaried,620,Car,420000,13.2,6,No
+L042,Rajesh Verma,43,Post Graduate,Business,810,Business,1800000,8.7,15,No
+L043,Shivani Gupta,24,Graduate,Salaried,565,Education,190000,15.1,5,Yes
+L044,Aman Joshi,30,Graduate,Self Employed,680,Personal,340000,12.4,5,No
+L045,Komal Patil,35,Post Graduate,Salaried,740,Home,1020000,10.1,15,No
+L046,Yogesh Rane,29,Graduate,Salaried,600,Car,470000,13.8,7,Yes
+L047,Nisha Kapoor,40,Post Graduate,Business,770,Business,1450000,9.4,12,No
+L048,Deepak Rao,26,Graduate,Salaried,580,Education,210000,14.6,5,Yes
+L049,Bhavna Shah,33,Post Graduate,Self Employed,710,Home,950000,10.5,15,No
+L050,Kunal Mehta,37,Graduate,Business,790,Business,1500000,9.1,12,No
+L051,Riya Sharma,23,Graduate,Salaried,555,Education,170000,15.4,4,Yes
+L052,Arpit Jain,31,Graduate,Self Employed,665,Personal,310000,12.8,5,No
+L053,Prachi Verma,28,Post Graduate,Salaried,720,Home,880000,10.3,15,No
+L054,Ritesh Gupta,39,Business,Business,750,Business,1320000,9.7,10,No
+L055,Anita Nair,27,Graduate,Salaried,605,Car,430000,13.6,6,Yes
+L056,Sameer Khan,45,Post Graduate,Business,820,Business,1900000,8.5,15,No
+L057,Payal Joshi,24,Graduate,Salaried,570,Education,200000,14.9,5,Yes
+L058,Nitin Patil,34,Graduate,Self Employed,690,Home,910000,10.8,15,No
+L059,Sonal Shah,30,Post Graduate,Salaried,735,Home,980000,10.0,18,No
+L060,Vikas Kulkarni,36,Business,Business,760,Business,1380000,9.5,12,No
+L061,Ankita Rao,26,Graduate,Salaried,585,Personal,260000,14.2,4,Yes
+L062,Rohit Deshmukh,42,Post Graduate,Business,800,Business,1650000,8.9,15,No
+L063,Divya Sharma,25,Graduate,Salaried,610,Education,220000,13.5,5,Yes
+L064,Ajay Gupta,32,Graduate,Self Employed,670,Car,510000,12.6,7,No
+L065,Monika Jain,38,Post Graduate,Salaried,745,Home,1080000,9.9,15,No
+L066,Suresh Patil,44,Business,Business,780,Business,1550000,9.2,12,No
+L067,Preeti Nair,27,Graduate,Salaried,595,Personal,280000,14.0,4,Yes
+L068,Harsh Shah,35,Post Graduate,Self Employed,700,Home,920000,10.6,15,No
+L069,Ritu Verma,29,Graduate,Salaried,625,Car,460000,13.1,6,No
+L070,Manoj Kulkarni,41,Business,Business,790,Business,1720000,8.8,15,No
+L071,Shweta Rao,24,Graduate,Salaried,560,Education,180000,15.3,5,Yes
+L072,Abhishek Sharma,33,Graduate,Self Employed,680,Personal,340000,12.3,5,No
+L073,Neeta Gupta,37,Post Graduate,Salaried,730,Home,990000,10.2,15,No
+L074,Kartik Jain,28,Graduate,Salaried,605,Car,440000,13.7,7,Yes
+L075,Poonam Patil,39,Post Graduate,Business,770,Business,1480000,9.4,12,No
+L076,Ajay Nair,26,Graduate,Salaried,575,Education,210000,14.8,5,Yes
+L077,Varun Shah,34,Graduate,Self Employed,695,Home,930000,10.7,15,No
+L078,Reshma Rao,30,Post Graduate,Salaried,740,Home,1040000,10.1,18,No
+L079,Sumit Verma,36,Business,Business,755,Business,1360000,9.6,12,No
+L080,Nikita Sharma,25,Graduate,Salaried,590,Personal,250000,14.4,4,Yes
+L081,Amit Gupta,43,Post Graduate,Business,810,Business,1850000,8.6,15,No
+L082,Snehal Jain,27,Graduate,Salaried,600,Education,200000,13.9,5,Yes
+L083,Pratik Patil,31,Graduate,Self Employed,670,Car,490000,12.7,7,No
+L084,Radhika Rao,38,Post Graduate,Salaried,735,Home,1010000,10.0,15,No
+L085,Naveen Shah,45,Business,Business,800,Business,1780000,8.9,15,No
+L086,Priyanka Verma,24,Graduate,Salaried,565,Education,190000,15.2,5,Yes
+L087,Arun Sharma,35,Graduate,Self Employed,700,Personal,320000,12.4,5,No
+L088,Swati Gupta,29,Post Graduate,Salaried,720,Home,940000,10.5,15,No
+L089,Keshav Jain,40,Business,Business,780,Business,1520000,9.3,12,No
+L090,Tina Patil,26,Graduate,Salaried,580,Car,410000,14.1,6,Yes
+L091,Gaurav Rao,32,Graduate,Self Employed,690,Home,900000,10.8,15,No
+L092,Megha Shah,37,Post Graduate,Salaried,750,Home,1060000,9.8,18,No
+L093,Vivek Verma,42,Business,Business,795,Business,1680000,8.7,15,No
+L094,Anushka Sharma,25,Graduate,Salaried,570,Education,220000,15.0,5,Yes
+L095,Rajiv Gupta,34,Graduate,Self Employed,680,Personal,330000,12.5,5,No
+L096,Mansi Jain,30,Post Graduate,Salaried,725,Home,970000,10.3,15,No
+L097,Sachin Patil,39,Business,Business,770,Business,1430000,9.5,12,No
+L098,Pallavi Rao,27,Graduate,Salaried,595,Car,430000,13.8,6,Yes
+L099,Rakesh Shah,44,Business,Business,805,Business,1820000,8.6,15,No
+L100,Aarti Verma,23,Graduate,Salaried,560,Education,180000,15.4,4,Yes
