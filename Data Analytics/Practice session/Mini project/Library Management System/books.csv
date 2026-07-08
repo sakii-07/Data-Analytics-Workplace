@@ -1,0 +1,31 @@
+b_id,b_name,author_name,price,qnty
+101,Python Programming,Mark Lutz,850,8
+102,Learning Python,David Beazley,720,6
+103,Python Crash Course,Eric Matthes,680,10
+104,Automate the Boring Stuff,Al Sweigart,600,12
+105,Effective Python,Brett Slatkin,790,5
+106,Fluent Python,Luciano Ramalho,1200,4
+107,Head First Python,Paul Barry,650,7
+108,Think Python,Allen Downey,500,9
+109,Python Cookbook,David Beazley,950,5
+110,Django for Beginners,William Vincent,750,6
+111,Data Science from Scratch,Joel Grus,980,4
+112,Pandas in Action,Boris Paskhaver,850,6
+113,NumPy Essentials,Leo Chin,620,8
+114,Machine Learning Basics,Andrew Ng,1100,3
+115,Deep Learning,Ian Goodfellow,1400,2
+116,Clean Code,Robert Martin,900,10
+117,Code Complete,Steve McConnell,1300,4
+118,Design Patterns,Erich Gamma,1500,5
+119,Refactoring,Martin Fowler,1250,3
+120,Algorithms Unlocked,Thomas Cormen,800,6
+121,Introduction to Algorithms,Cormen,1800,3
+122,Java Complete Reference,Herbert Schildt,950,7
+123,C Programming,Dennis Ritchie,550,9
+124,C++ Primer,Stanley Lippman,980,5
+125,JavaScript Guide,John Duckett,700,8
+126,HTML and CSS,Jon Duckett,650,10
+127,SQL Cookbook,Anthony Molinaro,850,4
+128,Computer Networks,Andrew Tanenbaum,1200,3
+129,Operating System Concepts,Silberschatz,1350,2
+130,Database System Concepts,Korth,1450,3

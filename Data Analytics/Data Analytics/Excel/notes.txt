@@ -1,0 +1,3 @@
+Q: Can VLOOKUP perform right-to-left lookup?
+
+A: No. VLOOKUP can only search from left to right. For right-to-left lookup, use INDEX + MATCH or XLOOKUP.

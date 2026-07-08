@@ -1,0 +1,413 @@
+Q1. Explain NumPy. Why is NumPy preferred over Python Lists for numerical computations? Mention any 
+four advantages.
+
+NumPy (Numerical Python) is an open-source Python library used for numerical computing. It provides 
+a powerful N-dimensional array (ndarray) and supports mathematical, statistical, and linear algebra 
+operations efficiently. NumPy is the foundation for many data science and machine learning libraries
+ such as Pandas, Scikit-learn, TensorFlow, and SciPy.
+
+Why is NumPy preferred over Python Lists?
+
+NumPy is preferred because it is optimized for numerical computations. Unlike Python lists, NumPy 
+arrays store data in contiguous memory and are implemented in C, making operations much faster and 
+more memory-efficient.
+
+Advantages of NumPy:
+High Performance
+NumPy arrays are much faster than Python lists because operations are implemented in optimized C 
+code and use vectorization.
+
+Memory Efficient
+NumPy arrays consume less memory since they store elements of the same data type in contiguous 
+memory locations.
+
+Vectorized Operations
+Mathematical operations can be performed on entire arrays without writing explicit loops.
+import numpy as np
+
+arr = np.array([1, 2, 3])
+print(arr * 2)      # [2 4 6]
+Rich Mathematical Functions
+NumPy provides built-in functions for linear algebra, statistics, random number generation, matrix
+ operations, Fourier transforms, and more.
+Interview Conclusion (30-second version):
+
+"NumPy is a numerical computing library in Python that provides the ndarray data structure. 
+It is preferred over Python lists because it is faster, more memory-efficient, supports 
+vectorized operations, and offers a rich collection of mathematical and linear algebra functions. 
+These features make NumPy the standard library for data analysis and machine learning."
+
+⭐ Interview Tip
+
+If the interviewer asks "Why is NumPy faster than Python lists?", answer:
+
+"NumPy is faster because its arrays are homogeneous, stored in contiguous memory, and implemented 
+using optimized C code. It also uses vectorized operations, which avoid the overhead of Python 
+loops and improve execution speed."
+
+Q2. Explain the following NumPy functions with suitable examples.
+1. array()
+Definition:
+
+array() is used to create a NumPy array from a Python list, tuple, or other iterable.
+
+array() converts Python data structures into NumPy arrays, which are faster and more efficient for 
+numerical computations.
+
+Syntax:
+np.array(object)
+Example:
+import numpy as np
+
+arr = np.array([10, 20, 30, 40])
+
+print(arr)
+
+2. arange()
+Definition:
+
+arange() generates evenly spaced values within a given range.
+
+"arange() works like Python's range(), but it returns a NumPy array instead of a list."
+
+Syntax:
+np.arange(start, stop, step)
+Example:
+import numpy as np
+
+arr = np.arange(1, 11, 2)
+
+print(arr)
+
+3. linspace()
+Definition:
+
+linspace() generates a specified number of equally spaced values between two numbers.
+
+"linspace() is useful when we know the number of values we need instead of the step size."
+
+Syntax:
+np.linspace(start, stop, num)
+Example:
+import numpy as np
+
+arr = np.linspace(0, 10, 5)
+
+print(arr)
+
+4. reshape()
+Definition:
+
+reshape() changes the shape of an array without changing its data.
+
+"reshape() changes the dimensions of an array. The total number of elements before and after 
+reshaping must remain the same."
+
+Syntax:
+array.reshape(rows, columns)
+Example:
+import numpy as np
+
+arr = np.arange(1, 7)
+
+new_arr = arr.reshape(2, 3)
+
+print(new_arr)
+
+30-Second Interview Answer
+
+"np.array() creates a NumPy array from Python data structures. np.arange() generates values using a 
+start, stop, and step size. np.linspace() generates a specified number of equally spaced values 
+between two numbers. reshape() changes the dimensions of an array without changing its data, 
+provided the total number of elements remains the same."
+
+Q3. What is a Pandas DataFrame? Explain the difference between a Pandas Series and a DataFrame with 
+suitable examples.
+Interview Answer:
+
+Pandas DataFrame is a 2-dimensional labeled data structure consisting of rows and columns, similar 
+to an Excel sheet or SQL table. It can store multiple data types (integers, strings, floats, etc.) 
+in different columns and is widely used for data analysis and manipulation.
+
+Difference between Series and DataFrame
+Pandas Series	                                             Pandas DataFrame
+One-dimensional (1D)	                                     Two-dimensional (2D)
+Contains a single column of data	                     Contains multiple columns of data
+Has one index	                                             Has both row index and column names
+Can be considered a single column of a DataFrame	     Collection of multiple Series
+Example
+Series
+import pandas as pd
+
+s = pd.Series([10, 20, 30])
+print(s)
+
+Output:
+
+0    10
+1    20
+2    30
+dtype: int64
+DataFrame
+import pandas as pd
+
+df = pd.DataFrame({
+    "Name": ["Amit", "Neha"],
+    "Age": [25, 24]
+})
+
+print(df)
+
+Output:
+
+   Name  Age
+0  Amit   25
+1  Neha   24
+30-Second MNC Interview Answer
+
+"A Pandas DataFrame is a two-dimensional data structure with rows and columns, similar to an Excel 
+spreadsheet or SQL table. It can store multiple data types and is mainly used for data analysis. 
+A Pandas Series is one-dimensional and contains a single column of data, whereas a DataFrame is a 
+collection of multiple Series organized into rows and columns."
+
+
+Q6. Explain the purpose of the following Pandas functions with suitable examples.
+1. head()
+
+Purpose:
+Returns the first 5 rows of a DataFrame by default. It is used to quickly inspect the dataset.
+
+Example:
+
+import pandas as pd
+
+df = pd.read_csv("data.csv")
+
+print(df.head())
+
+Interview Answer:
+
+"head() is used to view the first few records of a dataset. By default, it returns the first 5 rows."
+
+2. tail()
+
+Purpose:
+Returns the last 5 rows of a DataFrame by default.
+
+Example:
+
+print(df.tail())
+
+Interview Answer:
+
+"tail() is used to view the last few records of a dataset. By default, it returns the last 5 rows."
+
+3. describe()
+
+Purpose:
+Provides summary statistics of numerical columns.
+
+It returns:
+
+Count
+Mean
+Standard Deviation
+Minimum
+25%
+50% (Median)
+75%
+Maximum
+
+Example:
+
+print(df.describe())
+
+Interview Answer:
+
+"describe() generates descriptive statistics for numerical columns, such as count, mean, standard 
+deviation, minimum, maximum, and quartiles."
+
+4. info()
+
+Purpose:
+Displays information about the DataFrame.
+
+It shows:
+
+Number of rows and columns
+Column names
+Data types
+Non-null values
+Memory usage
+
+Example:
+
+print(df.info())
+
+Interview Answer:
+
+"info() provides a summary of the DataFrame, including column names, data types, non-null values, 
+and memory usage. It is commonly used for data inspection and identifying missing values."
+
+30-Second MNC Interview Answer
+head(): Displays the first 5 rows of the dataset.
+tail(): Displays the last 5 rows of the dataset.
+describe(): Provides summary statistics such as count, mean, standard deviation, minimum, maximum, 
+and quartiles.
+info(): Displays the DataFrame structure, including column names, data types, non-null counts, and 
+memory usage.
+
+Q8. Explain Matplotlib. Write Python code to create:
+A Line Chart
+A Bar Chart
+A Pie Chart
+Also mention one real-world use case for each chart.
+Matplotlib
+
+Answer:
+
+Matplotlib is an open-source Python library used for creating data visualizations such as line 
+charts, bar charts, pie charts, histograms, scatter plots, and more. It helps analyze data trends, 
+compare values, and present insights graphically.
+
+1. Line Chart
+
+Purpose: Used to show trends over time.
+
+Example:
+
+import matplotlib.pyplot as plt
+
+months = ["Jan", "Feb", "Mar", "Apr"]
+sales = [100, 150, 120, 180]
+
+plt.plot(months, sales, marker="o")
+plt.title("Monthly Sales")
+plt.xlabel("Months")
+plt.ylabel("Sales")
+plt.show()
+
+Real-world Use Case:
+
+Tracking monthly sales, stock prices, or website traffic over time.
+
+2. Bar Chart
+
+Purpose: Used to compare values across different categories.
+
+Example:
+
+import matplotlib.pyplot as plt
+
+products = ["A", "B", "C", "D"]
+sales = [50, 80, 40, 90]
+
+plt.bar(products, sales)
+plt.title("Product Sales")
+plt.xlabel("Products")
+plt.ylabel("Sales")
+plt.show()
+
+Real-world Use Case:
+
+Comparing sales of different products or employee performance.
+
+3. Pie Chart
+
+Purpose: Used to show the proportion or percentage of each category.
+
+Example:
+
+import matplotlib.pyplot as plt
+
+labels = ["HR", "IT", "Sales", "Finance"]
+employees = [20, 35, 30, 15]
+
+plt.pie(employees, labels=labels, autopct="%1.1f%%")
+plt.title("Department-wise Employees")
+plt.show()
+
+Real-world Use Case:
+
+Showing market share, budget allocation, or department-wise employee distribution.
+
+30-Second MNC Interview Answer
+
+"Matplotlib is a Python library used for data visualization. It helps create charts like line charts, 
+bar charts, and pie charts. A line chart is used to show trends over time, a bar chart is used to 
+compare different categories, and a pie chart is used to display the percentage or proportion of 
+each category. It is widely used in data analysis and reporting."
+
+Q9. A company has the following monthly sales data. Write Python code using Pandas and Matplotlib.
+Answer:
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Create DataFrame
+df = pd.DataFrame({
+    "Month": ["Jan", "Feb", "Mar", "Apr", "May"],
+    "Sales": [120, 150, 180, 170, 220]
+})
+
+# Plot Line Chart
+plt.plot(df["Month"], df["Sales"], marker='o')
+
+# Add Chart Title
+plt.title("Monthly Sales")
+
+# Label Axes
+plt.xlabel("Month")
+plt.ylabel("Sales")
+
+# Display Chart
+plt.show()
+30-Second MNC Interview Explanation
+pd.DataFrame() is used to create the DataFrame.
+plt.plot() creates the line chart.
+plt.title() adds the chart title.
+plt.xlabel() and plt.ylabel() label the X-axis and Y-axis.
+plt.show() displays the chart.
+
+Q10. You are working as a Data Analyst in a finance company.
+Answer:
+# Import Libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# 1. Load the Dataset
+df = pd.read_csv("loan_data.csv")
+
+# 2. Display Basic Information
+print(df.head())
+print(df.info())
+
+# 3. Check for Missing Values
+print(df.isnull().sum())
+
+# 4. Display Summary Statistics
+print(df.describe())
+
+# 5. Find the Average Loan Amount
+print("Average Loan Amount:", df["Loan_Amount"].mean())
+
+# 6. Display Top 5 Customers with Highest Loan Amount
+top5 = df.sort_values(by="Loan_Amount", ascending=False).head(5)
+print(top5)
+
+# 7. Create a Bar Chart Showing Number of Customers in Each Branch
+branch_count = df["Branch"].value_counts()
+
+plt.bar(branch_count.index, branch_count.values)
+plt.title("Number of Customers in Each Branch")
+plt.xlabel("Branch")
+plt.ylabel("Number of Customers")
+plt.show()
+30-Second MNC Interview Explanation
+pd.read_csv() → Loads the CSV file into a DataFrame.
+head() and info() → Display sample data and dataset information.
+isnull().sum() → Checks for missing values in each column.
+describe() → Displays summary statistics of numerical columns.
+mean() → Calculates the average loan amount.
+sort_values() + head(5) → Finds the top 5 customers with the highest loan amount.
+value_counts() → Counts customers in each branch.
+plt.bar() → Creates a bar chart to compare the number of customers across branches.

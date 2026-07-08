@@ -20,7 +20,6 @@ patient_id,name,age,gender,disease,doctor_name,admission_date,bill_amount,status
 119,Sumit,38,Male,Dengue,Dr.Shinde,2026-03-30,19000,Discharged
 120,Rekha,50,Female,Hypertension,Dr.Patil,2026-03-31,12500,Admitted
 121,Akash,20,Male,Cold,Dr.Jagtap,2026-04-01,2200,Admitted
-122,Rutuja,25,Female,Fever,Dr.Sharma,2026-04-02,4800,Discharged
 123,Mahesh,42,Male,Asthma,Dr.Patil,2026-04-03,9500,Admitted
 124,Shweta,34,Female,Migraine,Dr.Kulkarni,2026-04-04,6200,Admitted
 125,Ganesh,29,Male,Typhoid,Dr.Shinde,2026-04-05,13500,Discharged

@@ -1,0 +1,31 @@
+Applicant_ID,Applicant_Name,Gender,Age,Education,Occupation,Applicant_Income,Credit_Score,Region
+A001,Applicant_1,Female,31,Post Graduate,Self Employed,31328,587,Pune
+A002,Applicant_2,Female,25,Diploma,Salaried,29914,594,Nashik
+A003,Applicant_3,Female,26,Graduate,Salaried,97226,767,Pune
+A004,Applicant_4,Male,36,Diploma,Self Employed,101414,581,Nashik
+A005,Applicant_5,Male,36,Graduate,Self Employed,42455,698,Nashik
+A006,Applicant_6,Male,29,Diploma,Business,98434,642,Pune
+A007,Applicant_7,Male,45,Graduate,Self Employed,118337,582,Pune
+A008,Applicant_8,Male,53,Diploma,Self Employed,81045,710,Nashik
+A009,Applicant_9,Female,45,Post Graduate,Salaried,48562,674,Pune
+A010,Applicant_10,Female,55,Post Graduate,Business,83829,697,Pune
+A011,Applicant_11,Male,54,Post Graduate,Salaried,69833,627,Nashik
+A012,Applicant_12,Female,24,Diploma,Salaried,98148,843,Nagpur
+A013,Applicant_13,Female,44,Diploma,Business,101008,783,Pune
+A014,Applicant_14,Male,39,Post Graduate,Self Employed,112051,583,Pune
+A015,Applicant_15,Female,50,Post Graduate,Self Employed,75566,727,Pune
+A016,Applicant_16,Female,44,Graduate,Self Employed,40347,802,Pune
+A017,Applicant_17,Male,40,Graduate,Self Employed,57455,753,Nashik
+A018,Applicant_18,Female,27,Graduate,Business,77644,831,Nagpur
+A019,Applicant_19,Male,49,Diploma,Business,117588,762,Nagpur
+A020,Applicant_20,Female,36,Graduate,Salaried,48097,627,Mumbai
+A021,Applicant_21,Male,22,Post Graduate,Self Employed,48900,684,Nagpur
+A022,Applicant_22,Male,31,Post Graduate,Self Employed,73398,839,Nagpur
+A023,Applicant_23,Male,54,Diploma,Self Employed,113630,577,Nashik
+A024,Applicant_24,Female,47,Post Graduate,Business,38570,796,Nashik
+A025,Applicant_25,Male,34,Graduate,Salaried,82753,633,Pune
+A026,Applicant_26,Female,25,Graduate,Salaried,99289,627,Pune
+A027,Applicant_27,Female,23,Graduate,Salaried,105487,742,Mumbai
+A028,Applicant_28,Female,44,Diploma,Business,87147,612,Pune
+A029,Applicant_29,Female,51,Post Graduate,Business,65875,593,Mumbai
+A030,Applicant_30,Male,43,Diploma,Business,87733,632,Pune

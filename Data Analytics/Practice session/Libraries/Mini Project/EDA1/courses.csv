@@ -1,0 +1,5 @@
+Course_ID,Course_Name,Duration_Months,Course_Fees,Trainer_ID,Branch,Start_Date,End_Date
+C101,Python,4,30000,T101,Pune,2025-01-10,2025-05-10
+C102,Data Analytics,6,40000,T102,Mumbai,2025-02-01,2025-08-01
+C103,Data Science,8,50000,T103,Nagpur,2025-01-15,2025-09-15
+C104,SQL,3,20000,T104,Pune,2025-03-01,2025-06-01

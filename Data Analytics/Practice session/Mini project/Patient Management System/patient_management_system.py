@@ -33,11 +33,14 @@ class Patient:
 
     @staticmethod
     def view_all_patients():
-        with open("patient_data.csv","r") as file:
-            reader = csv.reader(file)
+        try:
+            with open("patient_data.csv","r") as file:
+                reader = csv.reader(file)
 
-            for data in reader:
-                print(data)
+                for data in reader:
+                    print(data)
+        except Exception as e:
+            print(e)
 
     @staticmethod
     def search_patient(pid):
@@ -47,6 +50,7 @@ class Patient:
             for data in reader:
                 if data[0]==pid:
                     print(data)
+                    break
                 else:
                     print("Patient not found : ")
 

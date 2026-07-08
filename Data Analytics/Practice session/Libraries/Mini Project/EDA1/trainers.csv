@@ -1,0 +1,5 @@
+Trainer_ID,Trainer_Name,Department,Experience,Salary,Joining_Date,Branch,Rating
+T101,Rahul Patil,Python,5,55000,2022-01-15,Pune,4.6
+T102,Sneha Joshi,Analytics,7,70000,2021-03-10,Mumbai,4.8
+T103,Amit Shah,Data Science,9,85000,2019-07-20,Nagpur,4.9
+T104,Priya Kulkarni,Database,4,50000,2023-02-12,Pune,4.5

@@ -11,7 +11,7 @@ def add_student():
         writer = csv.writer(file)
         writer.writerow([roll,name,py,sql,pb])
 
-    print("Student added successfully!")
+    print("\nStudent added successfully!")
     print()
 
 def search_student():
@@ -20,12 +20,12 @@ def search_student():
         data = csv.reader(file)
         for d in data:
             if d[0] == roll:
-                print("*****Student Found*****")
+                print("\n*****Student Found*****")
                 print("Roll Number : ",d[0])
                 print("Name : ",d[1])
                 print("Python marks : ",d[2])
                 print("SQL marks : ",d[3])
-                print("PoerBI marks : ",d[4])
+                print("PowerBI marks : ",d[4])
                 print()
 
 def cal_percentage():
@@ -48,9 +48,11 @@ def dis_result():
             if row[0] == roll:
                 per = cal_percentage()
                 if per>35:
-                    print("Pass")
+                    print("\nPass")
+                    break
                 else:
-                    print("Fail")
+                    print("\nFail")
+                    break
     print()
 
 def cal_average():
@@ -61,7 +63,7 @@ def cal_average():
             if row[0] == roll:
                 marks = list(map(float,row[2:]))
                 avg = sum(marks)/3
-                print("Average",avg)
+                print("\nAverage",avg)
     print()
 
 def display_all():
@@ -92,7 +94,7 @@ while True:
         search_student()
     elif choice == 3:
         per = cal_percentage()
-        print("Percentage",per)
+        print(f"\nPercentage : {per:.2f}%")
         print()
     elif choice == 4:
         dis_result()
@@ -101,6 +103,7 @@ while True:
     elif choice == 6:
         display_all()
     elif choice == 7:
+        print("Thank You ...!")
         break
     else:
         print("Invalid choice")
