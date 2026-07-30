@@ -107,6 +107,27 @@ class Library(Member,Book):
                     data[1] = "|".join(issue_list)
                     found = True
                 rows.append(data)
+            try:
+                if found:
+                    book_rows = []
+                    with open('books.csv','r') as file:
+                        reader = list(csv.reader(file))
+
+                    for data in reader:
+                        if data[0] == b_id:
+                            if 0 < int(data[4]):
+                                    data[4] = str(int(data[4]) - 1)
+                            else:
+                                print("Book is not available.")
+                                return
+                        book_rows.append(data)
+
+                    with open('books.csv','w',newline="") as file1:
+                        writer = csv.writer(file1)
+
+                        writer.writerows(book_rows)
+            except Exception as e:
+                print(e)
 
             if not found:
                 rows.append([m_id,b_id])
@@ -144,6 +165,24 @@ class Library(Member,Book):
                         return
                 
                 rows.append(data)
+
+            try:
+                if found:
+                    book_rows = []
+                    with open('books.csv','r') as file:
+                        reader = list(csv.reader(file))
+
+                    for data in reader:
+                        if data[0] == b_id:
+                            data[4] = str(int(data[4]) + 1)
+                        book_rows.append(data)
+
+                    with open('books.csv','w',newline="") as file1:
+                        writer = csv.writer(file1)
+
+                        writer.writerows(book_rows)
+            except Exception as e:
+                print(e)
 
             if not found:
                 print("Membar not found .. ")

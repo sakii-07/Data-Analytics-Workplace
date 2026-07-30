@@ -1,0 +1,101 @@
+Student_ID,Student_Name,Course,Branch,Fees,Paid_Fees,Gender,Phone,Email,Join_Date,Remarks
+1001,Omkar Yadav,Data Analytics,Chinchwad,30000,20000.0,F,9876543210,test@gmail.com,32/01/2025,
+1002,vaibhav patil,Data Analytics,Nagpur,30000,50000.0,M,,USER@MAIL.COM,32/01/2025,  good  
+1003,Rohit Sharma,Testing,Chinchwad,25000,20000.0,Female,99999,invalidmail,15/02/2025,  good  
+1004,Ishwar Patil,Data Analytics,Pune,50000,10000.0,Male,99999,invalidmail,01-01-2025,NA
+1005,Anjali Patil,Data Analytics,Hadapsar,25000,50000.0,Male,,invalidmail,15/02/2025,
+1006,vaibhav patil,Data Science,Chinchwad,25000,20000.0,M,,invalidmail,32/01/2025,excellent
+1007,PRANAV patil,Python Full Stack,Chinchwad,30000,,Male,9876543210,USER@MAIL.COM,15/02/2025,  good  
+1008,Rohit Sharma,Java Full Stack,Chinchwad,"50,000",,F,99999,test@gmail.com,15/02/2025,
+1009,Ishwar Patil,Java Full Stack,,25000,20000.0,Male,9876500000,student@yahoo.com,32/01/2025,NA
+1010,PRANAV patil,Python Full Stack,Nagpur,30000,,Male,,student@yahoo.com,32/01/2025,excellent
+1011,     yogesh tayade    ,Data Science,Karve Nagar,50000,10000.0,M,9876543210,USER@MAIL.COM,15/02/2025,NA
+1012,Sneha Joshi,Data Analytics,Hadapsar,50000,50000.0,Female,,invalidmail,01-01-2025,
+1013,Anjali Patil,DA,Chinchwad,25000,30000.0,Female,9876500000,student@yahoo.com,01-01-2025,excellent
+1014,Anjali Patil,Data Science,Karve Nagar,25000,,Male,,USER@MAIL.COM,15/02/2025,excellent
+1015,PRANAV patil,Testing,Karve Nagar,25000,50000.0,Male,,test@gmail.com,01-01-2025,excellent
+1016,umesh mirge,Data Science,Pune,30000,50000.0,M,9876543210,student@yahoo.com,01-01-2025,
+1017,PRANAV patil,Data Science,Hadapsar,40000,20000.0,Male,,student@yahoo.com,15/02/2025,
+1018,  yogesh tayade ,Python Full Stack,,"50,000",,Male,,student@yahoo.com,01-01-2025,  good  
+1019,  yogesh tayade ,Data Analytics,Chinchwad,25000,50000.0,F,,USER@MAIL.COM,01-01-2025,
+1020,vaibhav patil,Data Science,Pune,25000,30000.0,M,,USER@MAIL.COM,2025-03-10,NA
+1021,  yogesh tayade ,Testing,Nagpur,"50,000",50000.0,Female,9876500000,student@yahoo.com,32/01/2025,  good  
+1022,   Omkar Yadav   ,Data Analytics,Hadapsar,40000,40000.0,Female,,test@gmail.com,01-01-2025,
+1023,shubham kale,Python Full Stack,Pune,30000,20000.0,F,,student@yahoo.com,15/02/2025,NA
+1024,PRANAV patil,Python Full Stack,Hadapsar,30000,10000.0,Female,,test@gmail.com,01-01-2025,
+1005,vaibhav patil,Data Analytics,Nagpur,30000,40000.0,Female,,USER@MAIL.COM,32/01/2025,
+1026,PRANAV patil,DA,Pune,50000,30000.0,Female,99999,student@yahoo.com,32/01/2025,  good  
+1027,  yogesh tayade ,Python Full Stack,,25000,50000.0,M,99999,test@gmail.com,01-01-2025,
+1028,Rohit Sharma,Testing,Karve Nagar,30000,10000.0,M,9876500000,test@gmail.com,01-01-2025,  good  
+1029,shubham kale,Data Analytics,Karve Nagar,30000,50000.0,M,,test@gmail.com,32/01/2025,
+1030,Sneha Joshi,Testing,Chinchwad,40000,20000.0,Male,9876500000,invalidmail,32/01/2025,  good  
+1031,umesh mirge,Java Full Stack,Chinchwad,25000,10000.0,Female,,test@gmail.com,01-01-2025,
+1032,  yogesh tayade ,Testing,Chinchwad,30000,30000.0,M,9876500000,invalidmail,2025-03-10,  good  
+1033,   Rohit Sharma   ,Testing,Chinchwad,40000,,M,,invalidmail,01-01-2025,  good  
+1034,umesh mirge,Data Analytics,Pune,"50,000",50000.0,F,99999,invalidmail,15/02/2025,excellent
+1035,  yogesh tayade ,Python Full Stack,Karve Nagar,50000,30000.0,M,9876543210,student@yahoo.com,2025-03-10,
+1036,vaibhav patil,Python Full Stack,,"50,000",30000.0,F,,student@yahoo.com,01-01-2025,
+1037,Omkar Yadav,Data Science,Karve Nagar,25000,30000.0,F,,USER@MAIL.COM,01-01-2025,excellent
+1038,Ishwar Patil,Data Analytics,Chinchwad,30000,,F,9876543210,invalidmail,32/01/2025,
+1039,PRANAV patil,DA,Nagpur,30000,40000.0,M,9876500000,invalidmail,32/01/2025,  good  
+1040,umesh mirge,Data Science,Pune,50000,10000.0,Female,9876500000,USER@MAIL.COM,32/01/2025,excellent
+1041,umesh mirge,Data Science,Nagpur,25000,,F,,invalidmail,2025-03-10,
+1042,umesh mirge,Python Full Stack,Karve Nagar,50000,,Male,9876543210,test@gmail.com,2025-03-10,  good  
+1043,Sneha Joshi,Python Full Stack,Pune,25000,50000.0,Female,99999,invalidmail,32/01/2025,
+1044,   Anjali Patil   ,Data Analytics,Hadapsar,40000,20000.0,Male,9876543210,student@yahoo.com,01-01-2025,
+1045,Anjali Patil,Data Science,,50000,10000.0,Male,,invalidmail,01-01-2025,excellent
+1046,Anjali Patil,Python Full Stack,Hadapsar,40000,40000.0,Male,,USER@MAIL.COM,15/02/2025,NA
+1047,shubham kale,Data Science,Karve Nagar,40000,30000.0,Female,,test@gmail.com,2025-03-10,excellent
+1048,  yogesh tayade ,Java Full Stack,Karve Nagar,40000,,Male,,student@yahoo.com,32/01/2025,  good  
+1049,Anjali Patil,Java Full Stack,Nagpur,"50,000",10000.0,Male,,invalidmail,01-01-2025,  good  
+1005,umesh mirge,Data Science,Nagpur,30000,10000.0,M,9876500000,student@yahoo.com,01-01-2025,NA
+1051,shubham kale,Testing,Nagpur,"50,000",,Female,,student@yahoo.com,15/02/2025,  good  
+1052,vaibhav patil,DA,Hadapsar,30000,20000.0,Female,9876543210,USER@MAIL.COM,01-01-2025,NA
+1053,PRANAV patil,Java Full Stack,Karve Nagar,40000,50000.0,Male,,student@yahoo.com,32/01/2025,  good  
+1054,Rohit Sharma,Java Full Stack,,30000,,Male,,student@yahoo.com,15/02/2025,excellent
+1055,   Rohit Sharma   ,Data Analytics,Chinchwad,30000,30000.0,Male,99999,test@gmail.com,15/02/2025,  good  
+1056,  yogesh tayade ,Java Full Stack,Nagpur,"50,000",20000.0,M,,student@yahoo.com,2025-03-10,
+1057,Rohit Sharma,Java Full Stack,Pune,30000,40000.0,Female,,test@gmail.com,32/01/2025,NA
+1058,vaibhav patil,Python Full Stack,Chinchwad,50000,40000.0,F,,USER@MAIL.COM,2025-03-10,NA
+1059,Rohit Sharma,Data Analytics,Hadapsar,40000,,Female,9876500000,student@yahoo.com,15/02/2025,
+1060,Anjali Patil,Data Analytics,Hadapsar,40000,50000.0,M,9876543210,student@yahoo.com,15/02/2025,NA
+1061,PRANAV patil,Data Analytics,Chinchwad,50000,30000.0,F,,invalidmail,2025-03-10,NA
+1062,umesh mirge,Java Full Stack,Chinchwad,25000,40000.0,M,,test@gmail.com,2025-03-10,  good  
+1063,Omkar Yadav,Data Analytics,,30000,20000.0,M,,USER@MAIL.COM,15/02/2025,  good  
+1064,Rohit Sharma,Data Analytics,Karve Nagar,30000,40000.0,Male,99999,USER@MAIL.COM,01-01-2025,  good  
+1065,umesh mirge,DA,Karve Nagar,25000,30000.0,Female,,USER@MAIL.COM,01-01-2025,
+1066,     yogesh tayade    ,Data Analytics,Chinchwad,"50,000",50000.0,M,,test@gmail.com,2025-03-10,
+1067,shubham kale,Python Full Stack,Pune,40000,,Male,9876543210,student@yahoo.com,32/01/2025,
+1068,shubham kale,Python Full Stack,Hadapsar,"50,000",20000.0,Female,9876500000,invalidmail,32/01/2025,NA
+1069,shubham kale,Testing,Chinchwad,40000,20000.0,M,99999,student@yahoo.com,15/02/2025,NA
+1070,Sneha Joshi,Testing,Hadapsar,40000,10000.0,Female,99999,USER@MAIL.COM,32/01/2025,  good  
+1071,Ishwar Patil,Python Full Stack,Chinchwad,40000,50000.0,Male,,test@gmail.com,15/02/2025,
+1072,  yogesh tayade ,Java Full Stack,,40000,20000.0,Female,,student@yahoo.com,01-01-2025,
+1073,umesh mirge,Data Science,Hadapsar,"50,000",20000.0,Male,,invalidmail,32/01/2025,
+1074,Anjali Patil,Python Full Stack,Hadapsar,"50,000",50000.0,Male,99999,student@yahoo.com,2025-03-10,excellent
+1005,umesh mirge,Data Science,Pune,"50,000",20000.0,Male,9876543210,USER@MAIL.COM,15/02/2025,  good  
+1076,Rohit Sharma,Python Full Stack,Karve Nagar,40000,50000.0,Male,9876543210,USER@MAIL.COM,2025-03-10,  good  
+1077,   Ishwar Patil   ,Data Science,Chinchwad,25000,,F,99999,test@gmail.com,01-01-2025,
+1078,umesh mirge,DA,Hadapsar,25000,10000.0,Male,,student@yahoo.com,32/01/2025,excellent
+1079,PRANAV patil,Data Analytics,Chinchwad,50000,10000.0,M,,student@yahoo.com,01-01-2025,
+1080,vaibhav patil,Data Science,Nagpur,40000,30000.0,M,9876500000,test@gmail.com,32/01/2025,
+1081,Sneha Joshi,Testing,,40000,40000.0,Female,,invalidmail,32/01/2025,excellent
+1082,Sneha Joshi,Testing,Pune,40000,,M,9876500000,USER@MAIL.COM,2025-03-10,
+1083,PRANAV patil,Data Science,Nagpur,40000,10000.0,F,9876543210,student@yahoo.com,32/01/2025,
+1084,Rohit Sharma,Python Full Stack,Pune,30000,30000.0,Male,,test@gmail.com,15/02/2025,excellent
+1085,Sneha Joshi,Data Science,Hadapsar,25000,50000.0,F,9876500000,invalidmail,15/02/2025,
+1086,vaibhav patil,Data Science,Chinchwad,40000,,Male,,test@gmail.com,32/01/2025,excellent
+1087,shubham kale,Python Full Stack,Karve Nagar,40000,40000.0,Female,9876543210,test@gmail.com,32/01/2025,excellent
+1088,   Sneha Joshi   ,Python Full Stack,Pune,25000,20000.0,M,99999,test@gmail.com,15/02/2025,NA
+1089,Anjali Patil,Java Full Stack,Chinchwad,30000,50000.0,Female,,test@gmail.com,32/01/2025,excellent
+1090,shubham kale,Python Full Stack,,"50,000",10000.0,F,99999,student@yahoo.com,32/01/2025,excellent
+1091,shubham kale,DA,Pune,50000,10000.0,Male,99999,invalidmail,01-01-2025,NA
+1092,Anjali Patil,Data Analytics,Karve Nagar,50000,40000.0,M,9876500000,invalidmail,32/01/2025,NA
+1093,vaibhav patil,Data Science,Chinchwad,40000,20000.0,Male,,student@yahoo.com,01-01-2025,
+1094,Sneha Joshi,Data Science,Nagpur,40000,50000.0,M,,student@yahoo.com,01-01-2025,  good  
+1095,Omkar Yadav,Java Full Stack,Pune,"50,000",20000.0,Female,99999,invalidmail,32/01/2025,NA
+1096,Rohit Sharma,Data Science,Hadapsar,40000,20000.0,Female,9876500000,USER@MAIL.COM,01-01-2025,excellent
+1097,shubham kale,Python Full Stack,Karve Nagar,40000,10000.0,Male,99999,student@yahoo.com,15/02/2025,NA
+1098,Anjali Patil,Java Full Stack,Chinchwad,40000,50000.0,Female,,invalidmail,15/02/2025,  good  
+1099,   Sneha Joshi   ,Java Full Stack,,50000,10000.0,Male,,student@yahoo.com,32/01/2025,  good  
+1100,Rohit Sharma,Data Analytics,Nagpur,40000,50000.0,Male,9876543210,student@yahoo.com,01-01-2025,
